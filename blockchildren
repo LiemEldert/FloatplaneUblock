@@ -1,0 +1,8 @@
+! I am a complete moron when it comes to making filter lists. This ends up blocking the entire thread that one of these people participate in. Please PR if you know how to fix this - I am an idiot.
+floatplane.com##:xpath(//comment[descendant::a[text()='lucasisfun']])
+floatplane.com##:xpath(//comment[descendant::a[text()='Minidak']])
+floatplane.com##:xpath(//comment[descendant::a[text()='jeff_from_vine']])
+floatplane.com##:xpath(//comment[descendant::a[text()='HodgCodg12']])
+floatplane.com##:xpath(//comment[descendant::a[text()='MacPato']])
+floatplane.com##:xpath(//comment[descendant::a[text()='potat0']])
+floatplane.com##:xpath(//comment[descendant::a[text()='HJS1701']])
